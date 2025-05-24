@@ -1,6 +1,9 @@
 # 💫 Acerca de mi:
 
-Estoy aprendiendo y desarrollando proyectos backend`<br>`Aprendo mucho de bases de datos`<br>`Interesado en aprender y actualizarme con nuevas tecnologías
+Hola!
+Soy estudiante de Ingeniería en Computación en la Facultad de Ingeniería en la UNAM
+He desarrollado proyectos Backend, videojuegos y bases de datos
+Estoy constantemente aprendiendo nuevas tecnologías.
 
 ## 🌐 Redes Sociales:
 
